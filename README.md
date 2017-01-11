@@ -1,6 +1,8 @@
 MonoManagedToNative
 ===================
 
+## UPDATE: This project is being continued in: https://github.com/mono/embeddinator-4000
+
 .NET assembly to Mono native C/C++ API bindings generator.
 
 * Create a native API to access some C# APIs
